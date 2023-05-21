@@ -14,7 +14,7 @@ Data: 19/05/2023
 ## Plantejament
 
 
-Manovich parla d'hibridació, quan es convinen diferents medis en un de sol. En el cas del software podem trobar exemples molt diversos on, per exemple, en un programa d'edició de video, es poden utilitzar eines mecanogràfiques, un medi totalment diferent, amb la opció d'insertar text. L'hibridació ens permet crear noves formas d'expressió i comuniació que abans no existien per la dificultat de fer convergir els diferents medis, ja per incompatibilitat analògica o falta de progrès digital. Per poder comprendre aquesta qüestió donaré dos exemples diferenciats de software que han incorporat eines pròpies d'altres medis. 
+Manovich parla d'hibridació, quan es convinen diferents medis en un de sol. En el cas del software podem trobar exemples molt diversos on, per exemple, en un programa d'edició de video, es poden utilitzar eines mecanogràfiques, un medi totalment diferent, amb la opció d'insertar text. La hibridació ens permet crear noves formas d'expressió i comuniació que abans no existien per la dificultat de fer convergir els diferents medis, ja per incompatibilitat analògica o falta de progrès digital. Per poder comprendre aquesta qüestió donaré dos exemples diferenciats de software que han incorporat eines pròpies d'altres medis. 
 
 
 ## Redescobrint la hibridació: OBS Studio
