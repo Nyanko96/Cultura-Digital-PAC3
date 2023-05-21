@@ -21,7 +21,7 @@ Manovich parla d'hibridació, quan es convinen diferents medis en un de sol. En 
 ## Primer cas d'hibridació: OBS Studio
 
 En l'actualitat ha sorgit tot un moviment de transmissió de vídeo online en directe impulsada per usuaris que anomenem "streamers". En breus paraules, cadascun d'aquests creadors de contingut en directe tenen un petit estudi de televisió. Tot i que amb diferents graus de professionalitat, poden utilitzar una o mes càmeres, diferents fonts d'àudio, inclús fer una composició de pantalla amb diferents elements que no es podria diferenciar de canals de televisió professionals. 
-OBS o "Open Broadcaster Software" es un programa dedicat a la transmissió de vídeo que actua com a un estudi de televisió incorporant totes les eines necessàries.
+OBS o "Open Broadcaster Software" es un programa dedicat a la transmissió de vídeo que actua com a un estudi de televisió incorporant totes les eines necessàries. 
 
 Es important aclarir la importància d'aquest software. Fins la seva arribada, era necessari una persona per a cadascuna de les diferents parts de la transmissió, es a dir, llums, càmeres, so, maquetatje, control del mesclador de vídeo, edició de vídeo i gravació de vídeo. Com es pot observar, es una quantitat important de rols que inicialment seria inimaginable que una sola persona es pogués fer càrrec. La seva interfície es totalment modular de manera es poden ordenar totes les parts de manera que més agradi a l'usuari. Tot això es de manera abreujada el que incorpora el programa OBS.
 
@@ -29,6 +29,7 @@ La llibertat que s’ofereix augmenta la creativitat alhora de fer els directes.
 
 En definitiva, tenim 4 medis coexistint en OBS, edició de vídeo, cinema, televisió i interacció. D’aquesta manera s’origina un estil totalment únic en una sola interfície en la que podem tenir en una mateixa pantalla, imatge de dues càmeres amb filtres de àudio i vídeo (ajustat amb zoom i enquadrat segons les necessitats), amb ròtols personalitzats i un xat on interactuar amb els espectadors.
 
+Aquest software s’ha convertit en una peça clau en la nova generació d’entreteniment, en plataformes com Twitch, Youtube, Instagram, TikTok, Facebook, es comú que els streamers utilitzin OBS per a controlar el directe i transmetre el seu contingut als usuaris. 
 
 
 ## Segon cas d'hibridació: CUBASE
@@ -39,6 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
+> * Tyler Wilde (2012). **[How to stream games with Open Broadcaster: a fast, free livestreaming application](https://www.pcgamer.com/how-to-set-up-open-broadcaster-a-free-lightweight-livestreaming-application/)**.
 
 
 ----
