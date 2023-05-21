@@ -40,7 +40,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 ### Bibliografía
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-> * Tyler Wilde (2012). **[How to stream games with Open Broadcaster: a fast, free livestreaming application](https://www.pcgamer.com/how-to-set-up-open-broadcaster-a-free-lightweight-livestreaming-application/)**.
+* Tyler Wilde (2012). **[How to stream games with Open Broadcaster: a fast, free livestreaming application](https://www.pcgamer.com/how-to-set-up-open-broadcaster-a-free-lightweight-livestreaming-application/)**.
 
 
 ----
