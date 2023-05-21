@@ -7,7 +7,7 @@ Autor: Sergio Oliveira Tavira
 
 Fecha: 19/05/2023
 
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
+![Cultura Digital](https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg) 
 
 
 
