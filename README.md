@@ -27,6 +27,8 @@ Es important aclarir la importància d'aquest software. Fins la seva arribada, e
 
 La llibertat que s’ofereix augmenta la creativitat alhora de fer els directes. Un element característic de l’edició de vídeo com son els filtres i efectes son aplicables a qualsevol entrada de vídeo o àudio, i ajustant els paràmetres es pot aconseguir un quelcom característic de l’usuari. Trobem tècniques característiques del cinema com l’enquadrament o el zoom que es poden aplicar. Recursos de la televisió com els ròtols o pantalles dividides. Una tècnica a destacar, la qual no trobo cap medi amb la qual relacionar-la, es el interactuar amb els espectadors mitjançant el xat i enquestes. Podríem anomenar a aquesta última interacció.
 
+![Cultura Digital](https://thirdpersonblog.files.wordpress.com/2021/02/obs-custom-docks.jpg) 
+
 En definitiva, tenim 4 medis coexistint en OBS, edició de vídeo, cinema, televisió i interacció. D’aquesta manera s’origina un estil totalment únic en una sola interfície en la que podem tenir en una mateixa pantalla, imatge de dues càmeres amb filtres de àudio i vídeo (ajustat amb zoom i enquadrat segons les necessitats), amb ròtols personalitzats i un xat on interactuar amb els espectadors.
 
 Aquest software s’ha convertit en una peça clau en la nova generació d’entreteniment, en plataformes com Twitch, Youtube, Instagram, TikTok, Facebook, es comú que els streamers utilitzin OBS per a controlar el directe i transmetre el seu contingut als usuaris. 
@@ -41,6 +43,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * Tyler Wilde (2012). **[How to stream games with Open Broadcaster: a fast, free livestreaming application](https://www.pcgamer.com/how-to-set-up-open-broadcaster-a-free-lightweight-livestreaming-application/)**.
+* **[OBS Home Page](https://obsproject.com/)**
 
 
 ----
