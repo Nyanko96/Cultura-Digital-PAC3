@@ -1,11 +1,11 @@
-# PEC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació
+# PAC3: Visionant el futur amb les ulleres de Manovich: redescobrint la hibridació 
 
 
 
 Autor: Sergio Oliveira Tavira
 
 
-Fecha: 19/05/2023
+Data: 19/05/2023
 
 ![Cultura Digital](https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg) 
 
