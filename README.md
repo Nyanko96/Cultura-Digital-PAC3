@@ -42,6 +42,8 @@ Podem posar diferents exemples de la hibridació:
 2. Utilitzant tècniques de remescla, i mashup, consistents en reorganitzar i modificar fragments d’altres obres musicals.
 3. Incorporant elements visuals a la música, creant així una experiència multimèdia.
 
+![Cultura Digital](https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/S/SteinbergCubasePro12_01-sJapUt3uBttnsyf6DXghRAeOWyZHnyQU.jpg)
+
 Com podem observar el component més important de la hibridació en Cubase es la llibertat que dona als usuaris de poder expressar la seva creativitat, convertint-se en un paper en blanc on crear sons completament nous. Un element molt important a tenir en compte es la capacitat de incorporar plug-ins d’altres companyies, desde VST a efectes i eines de so com el compressor, equalitzador o limitador. 
 
 
