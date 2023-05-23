@@ -38,9 +38,9 @@ Aquest software s’ha convertit en una peça clau en la nova generació d’ent
 El programa Cubase va ser creat el 1989 per Steinberg pensat com a un seqüenciador MIDI per l’ordinador Atari. Aprofitant l’expansió de la informàtica, va anar evolucionant incorporant funcions de creació, gravació, edició i mescla d’àudio. Utilitzat per la majoria de productors, compositors, músics i professionals del so, es basa en el concepte de projecte, el que permet organitzar tots els elements d’una producció musical en una sola finestra. 
 Quan Manovich parla de hibridació principalment esperem que hi hagi diverses eines pròpies d’altres medis incorporades, tractant-se de un programa informàtic. En el cas de Cubase, aquest no es el seu punt important en la hibridació. El trobem en un punt molt més artístic, en la capacitat de crear música i sons nous amb elements de diferents medis. Aquets poden ser arxius d’àudio, MIDI, instruments virtuals (VST) i plugin d’efectes. A més també es pot incorporar una pista de vídeo al projecte per a compondre en base a aquest.
 Podem posar diferents exemples de la hibridació:
-*1-	Possibilitat de mesclar sons de diferents orígens i generes musicals.
-*2-	Utilitzant tècniques de remescla, i mashup, consistents en reorganitzar i modificar fragments d’altres obres musicals.
-*3-	Incorporant elements visuals a la música, creant així una experiència multimèdia.
+1. Possibilitat de mesclar sons de diferents orígens i generes musicals.
+2. Utilitzant tècniques de remescla, i mashup, consistents en reorganitzar i modificar fragments d’altres obres musicals.
+3. Incorporant elements visuals a la música, creant així una experiència multimèdia.
 
 Com podem observar el component més important de la hibridació en Cubase es la llibertat que dona als usuaris de poder expressar la seva creativitat, convertint-se en un paper en blanc on crear sons completament nous. Un element molt important a tenir en compte es la capacitat de incorporar plug-ins d’altres companyies, desde VST a efectes i eines de so com el compressor, equalitzador o limitador. 
 
