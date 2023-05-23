@@ -37,7 +37,15 @@ Aquest software s’ha convertit en una peça clau en la nova generació d’ent
 
 El programa Cubase va ser creat el 1989 per Steinberg pensat com a un seqüenciador MIDI per l’ordinador Atari. Aprofitant l’expansió de la informàtica, va anar evolucionant incorporant funcions de creació, gravació, edició i mescla d’àudio. Utilitzat per la majoria de productors, compositors, músics i professionals del so, es basa en el concepte de projecte, el que permet organitzar tots els elements d’una producció musical en una sola finestra. 
 Quan Manovich parla de hibridació principalment esperem que hi hagi diverses eines pròpies d’altres medis incorporades, tractant-se de un programa informàtic. En el cas de Cubase, aquest no es el seu punt important en la hibridació. El trobem en un punt molt més artístic, en la capacitat de crear música i sons nous amb elements de diferents medis. Aquets poden ser arxius d’àudio, MIDI, instruments virtuals (VST) i plugin d’efectes. A més també es pot incorporar una pista de vídeo al projecte per a compondre en base a aquest.
-Podem posar diferents exemples de la hibridació:
+
+Com a denominació, incorpora eines pròpies que han sigut fruit de la hibridació de altres eines, com són, el pad d’acords, la pista de sampler, assistent d’escales:
+
+-	Pad d’acords: Combina Pads (naturals de la bateria) amb acords definits o personalitzats per a l’usuari. Això permet una composició més intuïtiva i rítmica.
+-	Pista de sampler: Utilitza un fragment d’àudio i permet la seva utilització com si es tractes d’un instrument virtual, canviant el seu to i la intensitat.
+-	Assistent d’escales: Amb una escala escollida per l’usuari, dona exemples de melodies i harmonies coherents.
+
+
+Podem posar diferents exemples de la hibridació a l'hora d'utilitzar Cubase:
 1. Possibilitat de mesclar sons de diferents orígens i generes musicals.
 2. Utilitzant tècniques de remescla, i mashup, consistents en reorganitzar i modificar fragments d’altres obres musicals.
 3. Incorporant elements visuals a la música, creant així una experiència multimèdia.
