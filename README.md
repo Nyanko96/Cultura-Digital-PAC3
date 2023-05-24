@@ -2,8 +2,8 @@
 
 
 
-Autor: Sergio Oliveira Tavira
-Data: 19/05/2023
+**Autor**: Sergio Oliveira Tavira
+**Data**: 19/05/2023
 
 ![Cultura Digital](https://images.pexels.com/photos/257904/pexels-photo-257904.jpeg) 
 
