@@ -56,7 +56,7 @@ Com podem observar el component més important de la hibridació en Cubase es la
 
 
 
-### Bibliografía
+### Bibliografia
 
 * Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
 * Tyler Wilde (2012). **[How to stream games with Open Broadcaster: a fast, free livestreaming application](https://www.pcgamer.com/how-to-set-up-open-broadcaster-a-free-lightweight-livestreaming-application/)**.
