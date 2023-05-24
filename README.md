@@ -25,7 +25,7 @@ OBS o "Open Broadcaster Software" es un programa no lucratiu dedicat a la transm
 
 La llibertat que s’ofereix augmenta la creativitat alhora de fer els directes. Un element característic de l’edició de vídeo com son els filtres i efectes son aplicables a qualsevol entrada de vídeo o àudio, i ajustant els paràmetres es pot aconseguir un quelcom característic de l’usuari. Trobem tècniques característiques del cinema com l’enquadrament o el zoom que es poden aplicar. Recursos de la televisió com els ròtols o pantalles dividides. Una tècnica a destacar, la qual no trobo cap medi amb la qual relacionar-la, es el interactuar amb els espectadors mitjançant el xat i enquestes. Podríem anomenar a aquesta última interacció.
 
-![Cultura Digital](https://thirdpersonblog.files.wordpress.com/2021/02/obs-custom-docks.jpg) 
+![OBS](https://thirdpersonblog.files.wordpress.com/2021/02/obs-custom-docks.jpg) 
 
 En definitiva, tenim 4 medis coexistint en OBS, edició de vídeo, cinema, televisió i interacció. D’aquesta manera s’origina un estil totalment únic en una sola interfície en la que podem tenir en una mateixa pantalla, imatge de dues càmeres amb filtres de àudio i vídeo (ajustat amb zoom i enquadrat segons les necessitats), amb ròtols personalitzats i un xat on interactuar amb els espectadors. I, per si 4 medis no fos suficient, existeix la possibilitat de incorporar funcions complementaries “plugins”, que permeten o elaborar noves funcions programant-les, o descarregar-ne existents fetes per altres usuaris. 
 
@@ -49,7 +49,7 @@ Podem posar diferents exemples de la hibridació a l'hora d'utilitzar Cubase:
 2. Utilitzant tècniques de remescla, i mashup, consistents en reorganitzar i modificar fragments d’altres obres musicals.
 3. Incorporant elements visuals a la música, creant així una experiència multimèdia.
 
-![Cultura Digital](https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/S/SteinbergCubasePro12_01-sJapUt3uBttnsyf6DXghRAeOWyZHnyQU.jpg)
+![Cubase](https://dt7v1i9vyp3mf.cloudfront.net/styles/news_large/s3/imagelibrary/S/SteinbergCubasePro12_01-sJapUt3uBttnsyf6DXghRAeOWyZHnyQU.jpg)
 
 Com podem observar el component més important de la hibridació en Cubase es la llibertat que dona als usuaris de poder expressar la seva creativitat, convertint-se en un paper en blanc on crear sons completament nous. Un element molt important a tenir en compte es la capacitat de incorporar plug-ins d’altres companyies, desde VST a efectes i eines de so com el compressor, equalitzador o limitador. 
 
